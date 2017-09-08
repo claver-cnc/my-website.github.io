@@ -1,9 +1,9 @@
 # WELCOME TO MY WEBSITE README 
 
-My name is Claver Nambegue Coulibaly, i'm Entrepreneur In Trainnig At **MEST AFRCA**
+My name is Claver Nambegue Coulibaly, i'm Entrepreneur In Trainnig At **[MEST AFRCA](https://github.com/mestafrica)**
 
-### MY PICTURE HERE 
-![ME](https://claver-cnc.github.io/my-website.github.io/images/test.png)
+### MY SCHOOL   :heart_eyes:  :sunglasses: :heart_eyes: 
+![MEST](https://claver-cnc.github.io/my-website/images/mest.jpg)
 
 ### OUR DIFFERENTS MATTERS
 
@@ -18,6 +18,5 @@ Business | 3
 - Python 
 - Html
 - Css
-
-### EMOJI
+ 
 
