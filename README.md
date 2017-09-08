@@ -3,6 +3,7 @@
 My name is Claver Nambegue Coulibaly, i'm Entrepreneur In Trainnig At **MEST AFRCA**
 
 ### MY PICTURE HERE 
+![ME](https://claver-cnc.github.io/my-website.github.io/images/test.png)
 
 ### OUR DIFFERENTS MATTERS
 
